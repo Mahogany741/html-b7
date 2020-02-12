@@ -1,0 +1,6 @@
+/* O CSS por padrão aplica algumas estilizações, isso ocasiona alguns bugs em alguns navegadores.
+
+Antigamente a forma mais viável para corrigir esses bugs era utilizando o reset CSS, atualmente temos o NORMALIZE.CSS
+
+https://github.com/necolas/normalize.css
+*/

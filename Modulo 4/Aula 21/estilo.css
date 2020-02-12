@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.exemplo {
+
+    width: 500px;
+    height: 200px;
+    background: blue;
+    background: linear-gradient( 90deg, white, blue);
+
+    /* 
+    background: linear-gradient();
+
+    A primeira propriedade é a direção xxdeg
+    A segunda é a primeira cor e a 
+    terceira é a segunda cor
+
+    background:-moz-(linear-gradient(white,blue); coomando para proteger/garantir que funcionará no mozilla
+     */
+}
