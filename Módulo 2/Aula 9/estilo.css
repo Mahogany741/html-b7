@@ -1,0 +1,22 @@
+body {
+
+    margin: 0px;
+}
+
+
+.exemplo {
+
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+
+} 
+
+/* Todo elemento tem 4 propriedades distintas
+
+    * Conteúdo
+    * Borda
+    * Padding
+    * Margin
+
+*/

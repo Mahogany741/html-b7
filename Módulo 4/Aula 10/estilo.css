@@ -1,0 +1,30 @@
+body {
+
+    margin: 0;
+}
+
+.teste {
+
+    width: 600px;
+    height: 300px;
+    background-color: red;
+}
+
+/* 
+Aplicando alterações no site com base na largura da tela.
+
+@media only screen and (max-width: 600px) {
+    .teste {
+      background-color: lightblue;
+    }
+  } */
+
+
+  /* 
+  Aplicando aterações no site, caso o celular esteja deitado.
+  
+  @media only screen and (orientation: landscape) {
+    .teste {
+      background-color: lightblue;
+    }
+  } */

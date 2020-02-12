@@ -1,0 +1,28 @@
+* {
+    box-sizing:border-box;
+}
+
+body {
+
+    margin: 50px;
+    font-size: 17px;
+}
+
+p {
+
+    color: #0000FF;
+    font-size: 20px;
+    font-family: Helvetica;
+    text-align: left;
+    line-height: 25px;
+    text-shadow: 0px 2px 3px #FF0000;
+    /* text-transform: lowercase; 
+    Define se o texto é minúsculo ou maiúsculo*/
+
+    /* letter-spacing: 5px;
+    Define o espaçamento das letras */
+
+    /* word-spacing: 5px;
+    Define o espaçamento das palavras. */
+}
+
